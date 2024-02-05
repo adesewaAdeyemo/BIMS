@@ -1,0 +1,36 @@
+.pricingsection1, .pricingsection3{
+    padding: 100px 0 100px;
+}
+.gradient{
+    background: linear-gradient(177.53deg, #4dc367 2.07%, #117E29 54.6%),
+    linear-gradient(0deg, #C9C6C6, #C9C6C6);
+    padding: 70px 50px;
+    color: #fff;
+}
+.pricingsection2 h1{
+    color: #FA1919;
+}
+.pricingsection2 button{
+    color: #8D8181;
+    background-color: #fff;
+}.pricingsection2 button:hover{
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    background-color: transparent !important;
+}
+.gradient .i, .gradient i{
+    font-weight: 400 !important;
+    font-size: 25px !important;
+    padding-right: 10px;
+}
+.gradient .fa-times{
+    color: #4dc367;
+}
+.pricingsection3 img{
+    border-radius: 50%;
+    max-width: 200px;
+}
+.pricingsection3 h3{
+    padding-bottom: 40px;
+}
